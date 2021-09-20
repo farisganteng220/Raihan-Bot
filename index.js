@@ -63,16 +63,16 @@ let _scommand = JSON.parse(fs.readFileSync('./database/scommand.json'))
 
 banChats = true
 offline = false
-ownerNumber = ["@6285878313791"]
+ownerNumber = ["@62881036163833"]
 targetpc = '60139571124'
-owner = '6285878313791'
-fake = 'ʜᴇʟʟᴏ\nɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ'
+owner = '62881036163833'
+fake = 'Halo / I am RaihanBot'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ\n'
+            + 'FN:I Am RaihanBot\n'
             + 'ORG:YNTKTS;\n'
             + 'TEL;type=CELL;type=VOICE;waid=6285878313791:+62 858-7831-3791\n'
             + 'END:VCARD'
@@ -510,12 +510,12 @@ case 'menu':
     case 'p':
     wew = fs.readFileSync(`./lib/vallgans.jpeg`)
     	var menu = `*╭─❒ 「 BOT INFO 」 ──────*
-*│*➪ *NAMA : OI ${pushname} LU GAY YA?*
+*│*➪ *NAMA : OI ${pushname}*
 *│*➪ *WIB    : ${timeWib}*
 *│*➪ *WIT    : ${timeWit}*
 *│*➪ *WITA  : ${timeWita}*
-*│*➪ *CREATOR : 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳*
-*│*➪ *BOT NAME : ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ*
+*│*➪ *CREATOR : Raihan*
+*│*➪ *BOT NAME : RaihanBot*
 *│*➪ *PREFIX :「 MULTI PREFIX 」*
 *│*➪ *BOT MODE : ${banChats ? "SELF-MODE" : "PUBLIC-MODE"}*
 *└──────────────────❒*

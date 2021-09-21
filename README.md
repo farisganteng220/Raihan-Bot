@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pbs.twimg.com/media/E0bsagpUYAArQ4D.jpg" width="300" />
+<img src="https://pbs.twimg.com/media/E0bsagpUYAArQ4D.jpg" alt="SELF-HX" width="300" />
 
 # KANG REMAKE
 
@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/KiZakiXD"><img title="Remake" src="https://img.shields.io/badge/Author-KiZakiXD-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/285878313791"> I Am Wibu >//< </a>
+  <a href="https://wa.me/285878313791">AKU PEDO>//< </a>
 </h4>
 </p>
 
@@ -20,14 +20,20 @@
 
   - CSS
 
- ✨ Remake Adalah Hobiku >_<
+  - JavaScript
+
+ 
+
+ ⚡ Aku Om Pedo : Hiyaa >_<
 
     Nolep Is Live🖤
 
 
 **Information:**
 
-- [Donate](wa.me/6288231895667)
+- [My Chanel Youtube](https://m.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w)
+
+- [Donate](wa.me/6285878313791)
 
 ## <div align="center">⚡ Information </div>
 
@@ -70,7 +76,7 @@ ___
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/farisganteng220/Raihan-Bot/
+> git clone https://github.com/farisganteng220/Raihan-Bot
 > cd Raihan-Bot
 > bash install.sh / npm install
 > npm update
@@ -78,7 +84,7 @@ ___
 ```
 ## CARA INSTALL DI RDP
 ```bash
-> git clone https://github.com/farisganteng220/Raihan-Bot/ 
+> git clone https://github.com/farisganteng220/Raihan-Bot
 > cd Raihan-Bot
 > npm i
 > npm update
@@ -92,11 +98,6 @@ ___
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
 # PIMTUR
-
-|WELCOME & LEAVE|✅|
-| ------------- | ------------- |
-|WELCOME CMD|✅|
-|LEAVE CMD|✅|
 
 | OWNER |✅|
 | ------------- | ------------- |
@@ -172,7 +173,6 @@ ___
 | GET |✅|
 | TERM |✅|
 | X |✅|
-| ADA TAMBAHAN FITU TAPI MALES NULIS|✅|
 
 ### `--debug`
 
@@ -182,9 +182,9 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![X-Dev Team](https://github.com/xdevteam404.png?size=100)](https://github.com/xdevteam404) | [![KiZakiXD](https://github.com/KiZakiXD.png?size=100)](https://github.com/KiZakiXD)
+ [![Hexagon](https://github.com/Hexagonz.png?size=100)](https://github.com/Hexagonz) | [![KiZakiXD](https://github.com/KiZakiXD.png?size=100)](https://github.com/KiZakiXD)
 ----|----
-[X-Dev Team](https://github.com/xdevteam404) | [KiZakiXD](https://github.com/KiZakiXD)
+[Hexagon](https://github.com/Hexagonz) | [KiZakiXD](https://github.com/KiZakiXD)
  Penulis / Pencipta | Penulis ulang / Remake
 
 
@@ -193,5 +193,4 @@ conn.logger.level = 'debug'
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`MRHRTZ`](https://github.com/MRHRTZ)
 * [`Hexagonz`](https://github.com/Hexagonz)
-* [`X DEV-TEAM`](https://github.com/xdevteam404)
-* [`ALL CREATOR`]
+  

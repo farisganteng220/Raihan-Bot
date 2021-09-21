@@ -17,8 +17,8 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Hexagonz/SELF-HX
-> cd SELF-HX
+> git clone https://github.com/farisganteng220/Raihan-Bot/
+> cd Raihan-Bot
 > bash install.sh
 > npm start/node main.js
 ```

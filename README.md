@@ -24,8 +24,8 @@
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/Hexagonz/SELF-HX 
-> cd SELF-HX
+> git clone https://github.com/farisganteng220/Raihan-Bot/
+> cd Raihan-Bot
 > npm i
 > npm start/node main.js
 ```

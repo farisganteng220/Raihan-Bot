@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fboboiboy.fandom.com%2Fid%2Fwiki%2FBoBoiBoy_FrostFire&psig=AOvVaw3_mD-P80Va6ySjAexuWjjS&ust=1632271586335000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjlgMCnkPMCFQAAAAAdAAAAABAD" width="300" />
+<img src="https://pbs.twimg.com/media/E0bsagpUYAArQ4D.jpg" width="300" />
 
 # KANG REMAKE
 
